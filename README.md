@@ -15,7 +15,22 @@
 
 ![.](IMG/C.A.png)
 
-Ahora haremos la simulacion del circuito en TINKERCAD
+Ahora haremos la simulacion del circuito en DCAClab
+
+Seleccionamos los materiales a utilizar
+![.](IMG/1.png)
+
+Armamos el circuito como esta en el esquema
+
+![.](IMG/2.png)
+
+Conectamos el osciloscopio a la resitensia R
+
+![.](IMG/osc4.png)
+
+Conectamos el multimetro
+
+![.](IMG/3.png)
 
 4. LISTA DE COMPONENTES
 
@@ -40,25 +55,24 @@ Para este laboratorio utilizaremos el simulador DCAClab
 1) ¿Cuantas divisines por cuadro abarca la amplitud pico de la señal de salida? 
 
 2) ¿En que valor esta posicinada la perilla VOLTS/DIV?
-
+Se encuentra en el valor de 3
 3) ¿Cuantas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
 4) ¿En que valor esta posicionada la perilla TIME/DIV?
-
+Se encuentra en 0.1m
 5) ¿Cual es la amplitud de voltaje y el periodo de la sela que aparece en la pantalla del osciloscopio?
-
+  Amplitud de voltaje : 6.85 V
+  Periodo: 0,0004 s
 6)Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
 
 7) Con el multimetro digital mida el voltaje de salida en RL
-
+El voltaje de salida nos da 4.83 V
 8) Compare el voltaje medido en el punto 5 y el obtenido en el punto 7.
-¿Coinciden? ¿Poruqe?
-
+¿Coinciden? ¿Porque?
+Sus voltajes  son diferentes, el primero es de 6,85V y el otro de 4,84V esto de sebe a que el primero es el valor pico y el otro es su valor rms
 
 6. CONCLUCION
 
-- El circuito se simplifico a un equivalente bastante sencillo al aplicar el teorema de Thevenin y a pesar de reducir su forma los valores que se llegan a obtener se siguen manteniendo.
-- Al comparar los calculos practicos y los resultados obtenidos anotados en las tablas 5.1 y 5.2 podemos notar una pequeña variacion y esos nos produce un minimo margen de error 
 
 7. BIBLIOGRAFIA
 
