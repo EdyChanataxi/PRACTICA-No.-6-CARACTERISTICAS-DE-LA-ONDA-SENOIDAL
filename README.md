@@ -13,6 +13,7 @@
 
 3. DIAGRAMAS
 
+![.](IMG/C.A.png)
 
 Ahora haremos la simulacion del circuito en TINKERCAD
 
