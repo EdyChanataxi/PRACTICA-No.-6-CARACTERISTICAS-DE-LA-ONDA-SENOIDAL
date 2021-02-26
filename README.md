@@ -13,11 +13,12 @@
 
 3. DIAGRAMAS
 
-![.](IMG/C.A.png)
+![.](IMG/C.A..png)
 
 Ahora haremos la simulacion del circuito en DCAClab
 
 Seleccionamos los materiales a utilizar
+
 ![.](IMG/1.png)
 
 Armamos el circuito como esta en el esquema
