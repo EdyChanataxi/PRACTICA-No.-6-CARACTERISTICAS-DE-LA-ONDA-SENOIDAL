@@ -70,7 +70,7 @@ Se encuentra en el valor de 3
 
 3) ¿Cuantas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-
+tiene 4 divisiones por ciclo
 
 4) ¿En que valor esta posicionada la perilla TIME/DIV?
 
