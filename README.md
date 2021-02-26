@@ -5,8 +5,15 @@
 
 1.1. OBJETIVO GENERAL
 
+- Analizar experimentalmente las carectisricas y comportamiento de una onda seno 
 
  1.2. OBJETIVO ESPECIFICO
+
+-  Comprobar que un circuito con corriente alterna es diferente a uno de corriente contunua
+
+- Reconocer los diferentes voltajes que nos da el osciloscopio y el multimetro
+
+- Realizar el armado del circuito en el simulador DCAClab
 
 2. MARCO TEORICO
 
@@ -91,6 +98,10 @@ El voltaje de salida nos da 4.83 V
 Sus voltajes  son diferentes, el primero es de 6,85V y el otro de 4,84V esto de sebe a que el primero es el valor pico y el otro es su valor rms
 
 6. CONCLUCION
+
+- Efectivamente nos dimos cuenta que cuando  un circuito tiene una fuente de corriente alterna su compportamiento es distinto a uno con corriente continua ya que el uno varia con el tiempo.
+
+-  Como notamos en el multimetro nos da un valor y en el osciloscopio otro y como ya lo dijimos esto se debe a que el uno es un voltaje pico y el otro es un voltaje rms
 
 
 7. BIBLIOGRAFIA
