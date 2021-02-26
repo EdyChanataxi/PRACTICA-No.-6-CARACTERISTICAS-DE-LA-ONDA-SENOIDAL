@@ -20,7 +20,7 @@
 
 3. DIAGRAMAS
 
-![.](IMG/C.A..png)
+![.](IMG/C.A.png)
 
 Ahora haremos la simulacion del circuito en DCAClab
 
