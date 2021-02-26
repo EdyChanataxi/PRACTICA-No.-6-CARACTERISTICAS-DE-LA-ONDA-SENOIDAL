@@ -17,6 +17,8 @@
 
 2. MARCO TEORICO
 
+![CARACTERÍSTICAS DE LA ONDA SENOIDAL](https://user-images.githubusercontent.com/76446982/109251599-bf798780-77b9-11eb-8a13-62d34836d40e.jpg)
+
 
 3. DIAGRAMAS
 
