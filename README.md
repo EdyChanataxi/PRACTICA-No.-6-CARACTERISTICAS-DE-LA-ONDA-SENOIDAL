@@ -55,21 +55,39 @@ Para este laboratorio utilizaremos el simulador DCAClab
 
 1) ¿Cuantas divisines por cuadro abarca la amplitud pico de la señal de salida? 
 
+La amplitud abarca 2.5 divisiones
+
 2) ¿En que valor esta posicinada la perilla VOLTS/DIV?
+
 Se encuentra en el valor de 3
+
 3) ¿Cuantas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-4) ¿En que valor esta posicionada la perilla TIME/DIV?
-Se encuentra en 0.1m
-5) ¿Cual es la amplitud de voltaje y el periodo de la sela que aparece en la pantalla del osciloscopio?
-  Amplitud de voltaje : 6.85 V
-  Periodo: 0,0004 s
-6)Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
 
+
+4) ¿En que valor esta posicionada la perilla TIME/DIV?
+
+Se encuentra en 0.1m
+
+5) ¿Cual es la amplitud de voltaje y el periodo de la sela que aparece en la pantalla del osciloscopio?
+
+  Amplitud de voltaje : 6.85 V
+  
+  Periodo: 0,0004 s
+  
+6)Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
+  
+  f: 2500 Hz
+  
+  w: 5000π rad/s ==> w=15707,96 rad/s
+   
 7) Con el multimetro digital mida el voltaje de salida en RL
+
 El voltaje de salida nos da 4.83 V
+
 8) Compare el voltaje medido en el punto 5 y el obtenido en el punto 7.
 ¿Coinciden? ¿Porque?
+
 Sus voltajes  son diferentes, el primero es de 6,85V y el otro de 4,84V esto de sebe a que el primero es el valor pico y el otro es su valor rms
 
 6. CONCLUCION
